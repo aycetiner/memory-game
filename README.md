@@ -1,3 +1,3 @@
 # Memory-Game
 
-github pages url : https://rhogal.github.io/Memory-Game
+github pages url : https://aycetiner.github.io/memory-game/
